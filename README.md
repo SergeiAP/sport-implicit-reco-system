@@ -1,6 +1,6 @@
-# 1. Description
+# Description
 
-Test `Surprise` library for recomendation system, create 2-step recommendation system based on Amazon `sport and outdoor` [dataset (small)](https://nijianmo.github.io/amazon/index.html).
+Test [Surprise](https://surpriselib.com/) library for recomendation system, create __2-step recommendation system__ based on Amazon `sport and outdoor` [dataset (small)](https://nijianmo.github.io/amazon/index.html).
 
 Sports and Outdoors dataset:   
 * overall - rating of the product
@@ -11,3 +11,6 @@ Sports and Outdoors dataset:
 * reviewText - text of the review
 * summary - summary of the review
 * unixReviewTime - time of the review (unix time)
+
+# Author
+Parshin Sergei / @ParshinSA / Sergei.A.P@yandex.com
